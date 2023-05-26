@@ -4,7 +4,7 @@
 
   <h3>Respuestas del PDF</h3>
   <h5><i>Tambien introduciré algun ainformación extra utilizada en el desarrollo de la prueba</i></h5>
-- - - - 
+  <hr>
  </div>
 
 # Cuestionario
@@ -35,6 +35,16 @@ ventajas? ¿Conoces otra?</summary>
     <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
 </details>
 
+<br>
+
 # Ejercicios
+
+### Road Map
+- [ ] An uncompleted task
+- [ ] An uncompleted task
+- [ ] An uncompleted task
+- [ ] An uncompleted task
+
+<br>
 
 # Material extra
